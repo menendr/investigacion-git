@@ -64,7 +64,7 @@ git merge feature/login
 git branch -d feature/login
 ```
 
-En caso de conflicto durante el merge, Git marcará los archivos afectados. Se deben editar manualmente, luego ejecutar `git add` sobre los archivos resueltos y finalizar con `git commit`.
+En caso de conflicto durante el merge, Git marca los archivos afectados. Se deben editar manualmente, luego ejecutar `git add` sobre los archivos resueltos y finalizar con `git commit`.
 
 ---
 
@@ -72,7 +72,7 @@ En caso de conflicto durante el merge, Git marcará los archivos afectados. Se d
 
 | Recurso | Tipo | Enlace |
 |---|---|---|
-| Pro Git – Scott Chacon & Ben Straub | Libro (gratuito) | https://git-scm.com/book/en/v2 |
+| Pro Git – Scott Chacon & Ben Straub | Libro | https://git-scm.com/book/en/v2 |
 | Documentación oficial de Git | Referencia técnica | https://git-scm.com/docs |
 | Learn Git Branching | Simulador visual | https://learngitbranching.js.org |
 
