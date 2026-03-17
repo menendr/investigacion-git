@@ -73,6 +73,5 @@ En caso de conflicto durante el merge, Git marcará los archivos afectados. Se d
 |---|---|---|
 | *Pro Git* – Scott Chacon & Ben Straub | Libro (gratuito) | https://git-scm.com/book/en/v2 |
 | Documentación oficial de Git | Referencia técnica | https://git-scm.com/docs |
-
 | Learn Git Branching | Simulador visual | https://learngitbranching.js.org |
 
