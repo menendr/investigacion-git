@@ -1,6 +1,7 @@
 # Ficha Técnica: Git - branch, merge y resolución de conflictos
 
 **Curso:** Fundamentos de Ingeniería de Software
+
 **Integrantes:** Joaquín Rodríguez, Tiago Irrazábal, Juan Rafael Menéndez
 
 ---
@@ -71,7 +72,7 @@ En caso de conflicto durante el merge, Git marcará los archivos afectados. Se d
 
 | Recurso | Tipo | Enlace |
 |---|---|---|
-| *Pro Git* – Scott Chacon & Ben Straub | Libro (gratuito) | https://git-scm.com/book/en/v2 |
+| Pro Git – Scott Chacon & Ben Straub | Libro (gratuito) | https://git-scm.com/book/en/v2 |
 | Documentación oficial de Git | Referencia técnica | https://git-scm.com/docs |
 | Learn Git Branching | Simulador visual | https://learngitbranching.js.org |
 
