@@ -89,4 +89,3 @@ git branch -d feature/login
 | Learn Git Branching | Simulador visual | https://learngitbranching.js.org |
 
 ---
-*Ficha técnica elaborada para la Evaluación C – Investigación de Tecnología. Universidad ORT Uruguay.*
